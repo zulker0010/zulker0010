@@ -1,4 +1,5 @@
 Hello 👋
+
 I am an information systems and finance major, minoring in mathematics. I am also a self taught UX designer and programmer. 
 
 🔭 I’m currently working on traffic flow modelling using python libraries
