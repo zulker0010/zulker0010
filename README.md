@@ -7,5 +7,5 @@ I am an information systems and finance major, minoring in mathematics. I am als
 - 👯 I’m looking to collaborate on analytics and machine learning projects
 - 🤔 I’m looking for help on site development with typescript and astro
 - 💬 Ask me about Analytics, Machine Learning and UX
-- 📫 How to reach me: zulkernayeen@gmail.com
+- 📫 I am available @ zulkernayeen@gmail.com
 - ⚡ Fun fact: I make seperate playlists for every set of songs i listen to and I can run 10kms
