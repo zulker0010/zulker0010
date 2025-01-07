@@ -2,7 +2,7 @@ Hello 👋
 
 I am an information systems and finance major, minoring in mathematics. I am also a self taught UX designer and programmer. 
 
-🔭 I’m currently working on traffic flow modelling using python libraries
+🔭 I’m currently working on traffic flow modelling and analysis using python libraries such as  pandas, numpy, matplotlit and seaborn 
 - 🌱 I’m currently learning pandas, numpy and matplotlit
 - 👯 I’m looking to collaborate on analytics and machine learning projects
 - 🤔 I’m looking for help on site development with typescript and astro
