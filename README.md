@@ -4,7 +4,7 @@ I am an information systems and finance major, minoring in mathematics. I am als
 Interested in: Data engineering, analytics, ETL pipelines and UX
 
 🔭 I’m currently working on traffic flow modelling and analysis using python libraries such as  pandas, numpy, matplotlit and seaborn 
-- 🌱 I’m currently learning pandas, numpy and matplotlit
+- 🌱 I’m currently learning pandas, numpy and matplotlitb
 - 👯 I’m looking to collaborate on analytics and machine learning projects
 - 🤔 I’m looking for help on site development with typescript and astro
 - 💬 Ask me about Analytics, Machine Learning and UX
