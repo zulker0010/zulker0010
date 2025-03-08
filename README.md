@@ -1,7 +1,7 @@
 Hello 👋
 
 I am an information systems and finance major, minoring in mathematics. I am also a self taught UX designer and programmer. 
-Interested in: Data engineering, analytics, ETL pipelines and UX
+Interested in: data engineering, analytics, ETL pipelines and UX
 
 🔭 I’m currently working on traffic flow modelling and analysis using python libraries such as  pandas, numpy, matplotlit and seaborn 
 - 🌱 I’m currently learning pandas, numpy and matplotlitb
